@@ -1,2 +1,14 @@
 # igamechannel-hub
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
